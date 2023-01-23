@@ -1,4 +1,4 @@
-# DOE-CRC-coder
+# DOE-Communication by binary code
 # The origin line of this project is: https://github.com/MarkMaaaaa/Communication-by-binary-code
 This code is to transfer trajectory/velocity information to binary code and help obtain this information. 
 The algorithm is Cyclic redundancy check (CRC) to encode and decode information. 
